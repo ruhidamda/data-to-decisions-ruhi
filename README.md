@@ -1,11 +1,12 @@
 # data-to-decisions-ruhi
-Description: This repository will contain my assignments for the ISQA 8086-002 class
+**Description**: This repository will contain my assignments for the ISQA 8086-002 class.
 
-List of files in the repository:
+### List of files in the repository
+* 
+* 
 
+### License
 
-
-License: 
  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
