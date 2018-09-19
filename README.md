@@ -2,6 +2,7 @@
 **Description**: This repository will contain my assignments for the ISQA 8086-002 class.
 
 ### List of files in the repository
+* DataEntryAnalysis.md
 * 
 * 
 
