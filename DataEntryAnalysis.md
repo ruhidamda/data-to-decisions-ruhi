@@ -9,3 +9,8 @@
 * Data labels: The graph does not have labels for the variables on each of the axes.
 
 ### 2: Suggested system for organization
+
+| Date  (mm-dd-yyyy) | Time  (24h time clock) | Depth  (m) | Temperature  (C) | Chlorophyll concentration (mg/L) | Chippo  (#/L) | Chippo colony diameter  (mm) | Cuni  (#/L) | Cuni colony diameter  (mm) |
+|--------------------|------------------------|------------|------------------|----------------------------------|---------------|------------------------------|-------------|----------------------------|
+|                    |                        |            |                  |                                  |               |                              |             |                            |
+|                    |                        |            |                  |                                  |               |                              |             |                            |
